@@ -1,0 +1,15 @@
+1    00000      PROG       START      0              
+2    00000      FIRST      STL        RETADR         
+3    00003                 BASE       SYM1           
+4    00003      SECOND     LDA        =C'ABCD'       
+5    00006      THIRD      LDA        =X'FF'         
+6    00009                 J          @RETADR        
+7    0000C      DEF        BYTE       C'DEF'         
+8    00800      SYM1       EQU        2048           
+9    0000F      SYM2       EQU        *              
+10   00003      SYM3       EQU        SECOND-FIRST   
+11   0000F      RETADR     RESW       1              
+12   00012                 END        FIRST          
+13   00012      *          =C'ABCD'                  
+14   00016      *          =X'FF'                    
+17

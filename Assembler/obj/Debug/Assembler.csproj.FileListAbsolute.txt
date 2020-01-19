@@ -1,0 +1,13 @@
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\jeffm\OneDrive\CSC354\Assignments\A3-A4-Assembler\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Repos\GitHub_Repos\CSC354_Assembler\Assembler\obj\Debug\Assembler.pdb
